@@ -19,10 +19,10 @@ New users on Airbnb can book a place to stay in +34,000 cities across +190 count
 
 ## My Approach to this project:
 
-Data collecting: downloading all the data provided by Airbnb to local.
+ 1) Data collecting: downloading all the data provided by Airbnb to local.
 
-Data Wrangling: data cleaning, seek mistakes in data, look for peculiar behavior, fix problematic/missing data.
+ 2) Data Wrangling: data cleaning, seek mistakes in data, look for peculiar behavior, fix problematic/missing data.
 
-Data exploration: use of classification, inferential statistics and data visualization to find interesting trends and identify significant features in the data set.
+ 3) Data exploration: use of classification, inferential statistics and data visualization to find interesting trends and identify significant features in the data set.
 
-Data Analysis: data manipulation and modeling.
+ 4) Data Analysis: data manipulation and modeling.
